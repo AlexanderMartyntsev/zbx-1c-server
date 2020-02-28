@@ -1,6 +1,6 @@
 Предполагаем, что zabbix сервер и агент сервера уже установлены и сконфигурированы.
 
-####Адрес на исходник https://github.com/nikimaxim/zbx-1c-server
+#### Адрес на исходник https://github.com/nikimaxim/zbx-1c-server
 
 ## Установка
 
